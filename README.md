@@ -5,7 +5,6 @@
 - Email : suphanimit.n@ku.th
 - Phone Number : 0618178509
   
-*[Buddy]()*
-*[]()*
+*[Intellectual property](6530200517.github.io/intellectual_property)*
 
 
