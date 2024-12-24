@@ -3,7 +3,6 @@
 ----------------------------------------------------------------------
 To everyone I know.
 ----------------------------------------------------------------------
-Design by Canvas.
-Encode by Steganography.
+Design by Canvas and Encode by Steganography.
 ----------------------------------------------------------------------
 [Intellectual property](https://6530200517.github.io/intellectual-property)
