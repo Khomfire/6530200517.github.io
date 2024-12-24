@@ -1,7 +1,9 @@
 # Merry Christmas & Happy New Year 2025
 ![img_me](img/KeyCard.png)
 ----------------------------------------------------------------------
-Design by Canvas and encode by Steganography
+To everyone I know.
 ----------------------------------------------------------------------
-To everyone I know
+Design by Canvas.
+Encode by Steganography.
+----------------------------------------------------------------------
 [Intellectual property](https://6530200517.github.io/intellectual-property)
