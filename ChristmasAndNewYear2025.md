@@ -5,4 +5,4 @@
 
 Design by Canvas and Encode by Steganography.
 
-[Intellectual property](https://6530200517.github.io/intellectual-property)
+[My Profile](https://6530200517.github.io)
