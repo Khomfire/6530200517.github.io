@@ -3,6 +3,6 @@
 
 ## To everyone I know.
 
-Design by Canvas and Encode by [Steganography](https://6530200517.github.io](https://stylesuxx.github.io/steganography/)
+Design by Canvas and Encode by [Steganography](https://stylesuxx.github.io/steganography/)
 
 [My Profile](https://6530200517.github.io)
