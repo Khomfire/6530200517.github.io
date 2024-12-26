@@ -2,7 +2,7 @@
 ![img_me](img/Card.png)
 
 ## To everyone I know.
-## Sent : Suphanimit Nilchawee
+### Sent : Suphanimit Nilchawee
 
 Design by Canvas and Encode by [Steganography](https://stylesuxx.github.io/steganography/)
 
