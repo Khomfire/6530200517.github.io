@@ -28,4 +28,4 @@ ________________________________________________________________________________
 4. [Punnakan Punsiri](https://qlerdev.github.io/)
 
 
-[my profile](https://ุ6530200517.github.io/)
+[my profile](https://6530200517.github.io/)
