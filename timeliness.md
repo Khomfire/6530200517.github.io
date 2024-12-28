@@ -1,4 +1,5 @@
 # Timeliness
+
 ## Definition
 ### Definition by [Informatica](https://www.informatica.com/resources/articles/what-is-data-quality.html)
 - Data is updated as frequently as necessary, including in real time, to ensure that it meets user requirements for accuracy, accessibility and availability. This helps deliver real-time stock market data to inform timely investment decisions, provide up-to-date customer information for immediate response and personalized interactions, offer real-time operational data, ensure timely logistics data for accurate tracking information and update healthcare records in real-time.
