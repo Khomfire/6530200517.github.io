@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 ### วิดีโอการเล่น
 
-[![ตัวอย่างการเล่นบอร์ดเกม](img/boardgame4.jpg)](https://www.youtube.com/watch?v=UAQ9AiV6jmU)
+[![ตัวอย่างการเล่นบอร์ดเกม](img/boardgameV.jpg)](https://www.youtube.com/watch?v=UAQ9AiV6jmU)
 
 
 
