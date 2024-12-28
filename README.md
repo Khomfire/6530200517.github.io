@@ -10,3 +10,5 @@
 [Christmas & New Year 2025](https://6530200517.github.io/ChristmasAndNewYear2025)
 
 [Timeliness](https://6530200517.github.io/timeliness)
+
+[boardgame](https://6530200517.github.io/boardgame)
