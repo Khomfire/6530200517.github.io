@@ -8,3 +8,5 @@
 [Intellectual property](https://6530200517.github.io/intellectual-property)
 
 [Christmas & New Year 2025](https://6530200517.github.io/ChristmasAndNewYear2025)
+
+[Timeliness](https://6530200517.github.io/timeliness)
