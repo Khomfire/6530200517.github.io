@@ -1,5 +1,5 @@
 # 6530200517.github.io
-![img_me](ThisMe.jpg)
+![img_me](img/ThisMe.jpg)
 - ID : 6530200517
 - Name : Suphainimit Nilchawee
 - Email : suphanimit.n@ku.th
