@@ -11,4 +11,4 @@
 
 [Timeliness](https://6530200517.github.io/timeliness)
 
-[boardgame](https://6530200517.github.io/boardgame)
+[Boardgame](https://6530200517.github.io/boardgame)
